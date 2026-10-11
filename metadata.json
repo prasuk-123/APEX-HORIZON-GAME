@@ -1,0 +1,6 @@
+{
+  "name": "Apex Horizon: Open-World Driving & Dyno Sim",
+  "description": "Multiplayer 3D open-world driving simulation and performance tuning sandbox featuring realistic vehicle physics, live dyno telemetry, speed traps, drift zones, and customizable setups for every car.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
